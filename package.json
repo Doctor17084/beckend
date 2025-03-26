@@ -1,4 +1,9 @@
 {
+  "name": "Movify",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"  // შეცვალეთ server.js თქვენი მთავარი ფაილის სახელით
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^3.0.2",
